@@ -49,9 +49,6 @@ Steps I followed:
 ## Acknowledgments
  - I would like to thank [Krish Naik](https://www.youtube.com/@krishnaik06)
    
-## Contact
- - LinkedIn: [Nebeyou Musie](https://www.linkedin.com/in/nebeyou-musie)
- - Gmail: nebeyoumusie@gmail.com
- - Telegram: [Nebeyou Musie](https://t.me/NebeyouMusie)
+
 
 
